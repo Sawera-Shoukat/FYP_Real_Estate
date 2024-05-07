@@ -1,0 +1,32 @@
+# Compiled Python files
+*.pyc
+
+# Compiled Python bytecode
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Editor temporary files
+*.swp
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+# Windows Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcut files
+*.lnk
+
+# Windows system files
+System Volume Information/
